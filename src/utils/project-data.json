@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Netflix Clone",
+    "category": "Web Development",
+    "image": "https://i.ibb.co/Dz62QHh/Screenshot-23.png",
+    "code": "https://github.com/ArindamSankarDas/streamflix",
+    "demo": "https://streamflix-six.vercel.app/"
+  },
+  {
+    "title": "Inventory Tracker",
+    "category": "Web Development",
+    "image": "https://i.ibb.co/2nBNLL4/Screenshot-86.png",
+    "code": "https://github.com/ArindamSankarDas/Inventory-Tracker",
+    "demo": "https://inventotrack.vercel.app/"
+  },
+  {
+    "title": "Covid-19-Tracker",
+    "category": "Web Development",
+    "image": "https://i.ibb.co/YPKnXyq/Screenshot-24.png",
+    "code": "https://github.com/ArindamSankarDas/COVID-19-TRACKER",
+    "demo": "https://covid-19-tracker-wheat-six.vercel.app/"
+  },
+  {
+    "title": "Microsoft Clone",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/st52zCY/Screenshot-87.png",
+    "code": "https://github.com/ArindamSankarDas/microsoft-clone",
+    "demo": "https://microsoft-clone-delta-three.vercel.app/"
+  },
+  {
+    "title": "Card Component",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/Zxx9Mrk/Screenshot-7.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/Card_Component-main",
+    "demo": "https://frontend-mentor-challenges-seven-rho.vercel.app/"
+  },
+  {
+    "title": "Huddle landing page",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/C0NC5v9/Screenshot-30.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/Huddle-Landing-Page-main",
+    "demo": "https://frontend-mentor-challenges-griq.vercel.app/"
+  },
+  {
+    "title": "Profile Card",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/JsPTN5Y/Screenshot-32.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/Profile-card-component-main",
+    "demo": "https://profile-card-component-theta-five.vercel.app/"
+  },
+  {
+    "title": "Sign Up Form",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/TkQVSZx/Screenshot-28.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/Sign-Up-Form-Component-main",
+    "demo": "https://cool-lamington-d821be.netlify.app/"
+  },
+  {
+    "title": "Social Proof Section",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/XpfndfN/Screenshot-31.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/Social-Proof-Section-main",
+    "demo": "https://ubiquitous-moxie-1ec96e.netlify.app/"
+  },
+  {
+    "title": "Todo app",
+    "category": "Frontend Challenges",
+    "image": "https://i.ibb.co/SnpYKXP/Screenshot-27.png",
+    "code": "https://github.com/ArindamSankarDas/FrontendMentor-Challenges/tree/main/TODO-app-main",
+    "demo": "https://bespoke-stroopwafel-1be272.netlify.app/"
+  },
+  {
+    "title": "Role-Discord-Bot",
+    "category": "Bots",
+    "image": "https://i.ibb.co/wWdDVSh/photo-1614680376739-414d95ff43df.jpg",
+    "code": "https://github.com/ArindamSankarDas/Role-Discord-Bot",
+    "demo": "https://github.com/ArindamSankarDas/Role-Discord-Bot"
+  },
+  {
+    "title": "Music Player",
+    "category": "Internship",
+    "image": "https://i.ibb.co/9HCYrvz/Screenshot-88.png",
+    "code": "https://github.com/ArindamSankarDas/Music-Player",
+    "demo": "https://music-player-one-cyan.vercel.app/"
+  }
+]

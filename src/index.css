@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .separation-line::before {
+        @apply absolute content-[""] -bottom-4 w-full h-0.5 bg-gray-300;
+    }
+
+    .active-header {
+        @apply text-white bg-gradient-to-r from-orange-500 to-red-500;
+    }
+
+    .wide-screenview {
+        @apply flex justify-evenly items-center;
+    }
+
+    .title-line::before {
+        @apply absolute content-[""] top-1/2 -translate-y-1/2 w-full h-1 bg-gradient-to-r from-orange-500 to-red-500 lg:w-64;
+        left: calc(100% + 1rem);
+    }
+
+    .skill-container>span {
+        @apply text-sm text-white font-semibold text-center py-1 rounded-lg;
+    }
+
+    .project-btn {
+        @apply font-Raleway font-semibold text-xs bg-gradient-to-r from-orange-500 to-red-500 px-3 py-1 text-white rounded-md hover:text-orange-500 hover:bg-gradient-to-r hover:from-white hover:to-white hover:shadow-btnShadow transition-all active:text-white active:from-orange-500 active:to-red-500 lg:text-sm;
+    }
+
+    .scrollable-content {
+        @apply  overflow-auto max-h-[21rem] pr-4;
+    }
+}
+
+@layer utilities {
+    .no-scrollbar::-webkit-scrollbar {
+        display: none;
+    }
+
+    .no-scrollbar {
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+}
