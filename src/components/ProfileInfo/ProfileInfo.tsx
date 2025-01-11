@@ -10,8 +10,8 @@ const ProfileInfo = () => {
           <img
             src={ProfilePic}
             alt='profile-image'
-            width={160}
-            className='rounded-2xl'
+            width={180}
+            className='rounded-2xl h-44'
           />
           <h2 className='font-Poppins font-semibold text-xl sm:text-3xl lg:text-xl'>
             Arindam Sankar Das
