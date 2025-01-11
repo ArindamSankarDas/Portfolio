@@ -1,5 +1,5 @@
-import ProfilePic from "@/assets/profile-pic.png";
-import { Github, Linkedin, Mail, MapPin, Phone } from "lucide-react";
+import ProfilePic from "@/assets/profile-pic.jpg";
+import { Github, Linkedin, Mail, MapPin } from "lucide-react";
 
 const ProfileInfo = () => {
   return (
@@ -40,13 +40,6 @@ const ProfileInfo = () => {
         </div>
 
         <div className='flex flex-col gap-y-7 mb-10 bg-gray-100 px-8  py-8 rounded-2xl w-full xs:w-auto sm:w-[60%] md:px-6 lg:w-auto'>
-          <div className='relative flex items-center gap-3 separation-line'>
-            <Phone color='red' size={"22px"} />
-            <h4 className='text-xs flex flex-col font-bold sm:text-base lg:text-xs'>
-              <span className='text-gray-500'>Phone</span>
-              <span className='font-Raleway'>+91 8453299451</span>
-            </h4>
-          </div>
           <div className='relative flex items-center gap-3 separation-line'>
             <Mail color='orange' size={"22px"} />
             <h4 className='text-xs flex flex-col font-bold sm:text-base lg:text-xs'>

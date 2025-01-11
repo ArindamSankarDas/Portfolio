@@ -8,13 +8,7 @@ const WorkPage = () => {
   const [showLeftArrow, setShowLeftArrow] = useState(false);
   const [showRightArrow, setShowRightArrow] = useState(false);
 
-  const categories = [
-    "All",
-    "Web Development",
-    "Frontend Challenges",
-    "Bots",
-    "Internship",
-  ];
+  const categories = ["All", "Web Development", "Frontend Challenges", "Bots"];
 
   useEffect(() => {
     const checkCarouselScroll = () => {
